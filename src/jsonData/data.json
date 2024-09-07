@@ -1,0 +1,184 @@
+{
+  "user": [
+    {
+      "name": "kwang Soo",
+      "email": "kwang@gamil.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgqHu-FicOD93oeUEeNuNajIoLLlm_nvfxw&usqp=CAU",
+      "password": "11111",
+      "comfirm": "11111",
+      "phone": "09000000000",
+      "date": "December 7th 2023",
+      "id": 1
+    },
+    {
+      "name": "Soo min",
+      "email": "soo@gmail.com",
+      "password": "12345",
+      "comfirm": "12345",
+      "phone": "09 999111222",
+      "date": "December 7th 2023",
+      "image": "https://www.wowkeren.com/display/images/photo/2021/08/20/00380886.jpg",
+      "id": 2
+    },
+    {
+      "name": "gery",
+      "email": "gery@gmail.com",
+      "password": "11111",
+      "phone": "09 000111333",
+      "date": "December 7th 2023",
+      "image": "https://img.jakpost.net/c/2017/04/06/2017_04_06_24684_1491449896._large.jpg",
+      "comfirm": "11111",
+      "id": 3
+    },
+    {
+      "name": "haha",
+      "image": "https://yotsthoughts.files.wordpress.com/2014/12/haha.jpg",
+      "email": "haha@gmail.com",
+      "password": "88888",
+      "comfirm": "88888",
+      "phone": "09987654321",
+      "date": "Dec 7th 2023",
+      "id": 4
+    },
+    {
+      "name": "thant htut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuK54T0fjfK_jRw5eVuR6S4A0uIyUiYp55_Q&usqp=CAU",
+      "email": "thant@gmail.com",
+      "password": "123456",
+      "comfirm": "123456",
+      "phone": "0912345678",
+      "date": "Dec 10th 2023",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "post_URL": "https://www.allkpop.com/upload/2018/08/af_org/20100748/HaHa.jpg",
+      "title": "running man",
+      "body": "we are one",
+      "time": "Dec 7, 2023 8:00 AM",
+      "userId": 1
+    },
+    {
+      "body": "lovely member",
+      "title": "running man",
+      "post_URL": "https://img.jakpost.net/c/2016/12/21/2016_12_21_18149_1482300368._medium.jpg",
+      "time": "Dec 7, 2023 7:56 AM",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "body": "hello running",
+      "title": "running man",
+      "time": "Dec 7, 2023 10:56 AM",
+      "post_URL": "https://assets.nst.com.my/images/articles/olsrnngmnlwrtngs001a.jpg_1624436012.jpg",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "interview",
+      "time": "Dec 7, 2023 11:09 AM",
+      "body": "We love haha",
+      "post_URL": "https://www.wowkeren.com/display/images/photo/2022/07/14/00439599.jpg",
+      "userId": "4",
+      "id": 5
+    },
+    {
+      "title": "i love R.M",
+      "time": "Dec 7, 2023 12:28 PM",
+      "body": "i am in running man member",
+      "post_URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5hmugqZLjt32E5dmg9B4GudTaxnN-H_GdA&usqp=CAU",
+      "userId": "1",
+      "id": 6
+    },
+    {
+      "title": "running man",
+      "time": "Dec 7, 2023 12:30 PM",
+      "body": "i out running man",
+      "post_URL": "https://i.pinimg.com/736x/df/7b/53/df7b538038abc403c8bede0f3ee7898b.jpg",
+      "userId": "3",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "time": "Dec 10, 2023 9:40 PM",
+      "body": "nice cat i have ever ",
+      "post_URL": "https://0.soompi.io/wp-content/uploads/2015/04/27234330/Running-Man.png?s=900x600&e=t",
+      "userId": "3",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "userId": 2,
+      "postId": 2,
+      "ctime": "Dec 7, 2023 10:56 AM",
+      "body": "view"
+    },
+    {
+      "postId": 2,
+      "userId": 3,
+      "ctime": "Dec 7, 2023 10:56 AM",
+      "body": "hello",
+      "id": 3
+    },
+    {
+      "postId": 4,
+      "userId": 1,
+      "ctime": "Dec 7, 2023 10:56 AM",
+      "body": "hello",
+      "id": 4
+    },
+    {
+      "postId": 2,
+      "userId": 1,
+      "ctime": "Dec 7, 2023 10:56 AM",
+      "body": "holy shit",
+      "id": 5
+    },
+    {
+      "postId": 3,
+      "userId": 1,
+      "ctime": "Dec 7, 2023 10:56 AM",
+      "body": "lucy buster",
+      "id": 6
+    },
+    {
+      "postId": "4",
+      "userId": 4,
+      "body": "cute",
+      "ctime": "Dec 7, 2023 11:36 AM",
+      "id": 7
+    },
+    {
+      "postId": "4",
+      "userId": 4,
+      "body": "hello",
+      "ctime": "Dec 7, 2023 12:25 PM",
+      "id": 9
+    },
+    {
+      "postId": "5",
+      "userId": 1,
+      "body": "nice haha",
+      "ctime": "Dec 7, 2023 12:28 PM",
+      "id": 10
+    },
+    {
+      "postId": "3",
+      "userId": 3,
+      "body": "hello",
+      "ctime": "Dec 7, 2023 12:32 PM",
+      "id": 11
+    },
+    {
+      "postId": "8",
+      "userId": 5,
+      "body": "hello",
+      "ctime": "Dec 10, 2023 9:42 PM",
+      "id": 12
+    }
+  ]
+}
